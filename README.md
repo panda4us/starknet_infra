@@ -1,4 +1,5 @@
-                            InStarkCentive
+
+                                        InStarkCentive
 
                             
 In the light of the recent Starware announcement, the idea behind the project is to create a supplementary contract that will both stimulate the growth of the liquidity for the protocols and keep users commited to the protocol by providing them with the additional incentive. We will be using Pragma source of randomness, Pragma Data feed and the contract InSTARK with some amount of STARK tokens.
